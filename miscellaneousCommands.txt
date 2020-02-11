@@ -1,0 +1,19 @@
+- echo:
+$ echo "Hello" > fileName.txt
+    This command with the ">" sign Creates a fileName.txt file and print "Hello" inside it or overwrite what's in it if it was exist before.
+
+$ echo "Hello !!!" >> fileName.txt
+    This command with the ">>" sign Creates a fileName.txt file and print "Hello !!!" inside it or adding "Hello !!!" after its content if it was exist before.
+
+- cat:
+$ cat fileName.txt fileName2.txt
+    This command prints the content of the files on the screen.
+
+$ cat *
+    This command prints the content of all the files on the screen.
+
+$ cat fileName.txt > fileName2.txt
+    This command with the ">" sign Creates a fileName2.txt file and print the content of the first file to the second one or overwrite what's in it if it was exist before.
+
+$ cat fileName.txt >> fileName2.txt
+    This command with the ">>" sign Creates a fileName2.txt file and adding the content of the first file to the second one or print after its content if it was exist before.
