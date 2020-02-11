@@ -1,0 +1,12 @@
+- To work on an enhanced terminal it's recommended to download "Cmder | Console Emulator" https://cmder.net/
+
+Examples:
+- ipconfig > edit the IP configuration.
+- color > change the text and background colors.
+- title > changing the title.
+- mkdir > creating a directory.
+- cd > change directory to givin path.
+- explorer > open the directory wanted in the files explorer.
+- cls > clear the terminal window's text or in windows and UNIX/MAC.
+- clear > in UNIX/MAC only clears the terminal window's text.
+- dir > lists all the directory's info and contents in windows only.
