@@ -1,0 +1,8 @@
+Examples:
+- IP Config.
+- Moving text from subdirectories.
+- Delete files with specific extensions.
+- Change settings quickly.
+- create many directories with one command.
+- Edit system files quickly.
+- Create a batch to automate tasks like Register edit.
