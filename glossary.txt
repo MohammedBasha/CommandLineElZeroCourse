@@ -1,0 +1,4 @@
+Shell = Command Line Interpreter.
+Terminal = text input/output environement.
+CMD = The original Shell for MicroSoft DOS Operating System.
+PowerShell = After CMD in MicroSoft Windows 10 Operating System.
