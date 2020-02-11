@@ -1,0 +1,4 @@
+> Why to use Terminal?
+- Using less system resources.
+- Intelligent tab completion to complete paths and common commands.
+- Using loop to repeat commands.
