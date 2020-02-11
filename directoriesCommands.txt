@@ -1,0 +1,29 @@
+> using tab to complete the directory wanted instead of typing the whole name.
+
+> cd directory_name > to change to another directory directory.
+> cd .. > to back to the previous path.
+> cd \ > to go to the root.
+
+> mkdir directory_name > creating a directory.
+> md directory_name another_directory "Directory With Spaces" > creating directories.
+> mkdir ..\directory_name C:\React > create a directory in a different location.
+
+> clear > clear the screen.
+> cls > clear the screen.
+
+> ls > lists all the files and directories.
+> dir > lists all the files and directories with a detailed complete information.
+
+> move Testing Test > a windows command that renames the folder's name if the second name isn't found.
+> mv Testing exist_directory > linux command renames the folder's name if the second name isn't found or move it to the folder specified in the second parameter.
+
+> rename X Z > renaming the directory name.
+
+> cp -r directory directory2 > copying the folder and rename it, -r mean recursive flag to insure the directory will be copied with all of its subdirectories.
+
+> rm -r directory > deletes the directory and use -r recursive flag for deleting its subdirectories too.
+
+> rm -d Z > deletes the empty folder named Z.
+
+> rm --help > lists all the help instructions for this command.
+
