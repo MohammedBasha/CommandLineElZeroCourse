@@ -17,3 +17,20 @@ $ cat fileName.txt > fileName2.txt
 
 $ cat fileName.txt >> fileName2.txt
     This command with the ">>" sign Creates a fileName2.txt file and adding the content of the first file to the second one or print after its content if it was exist before.
+
+- grep (global regular expression print):
+$ gerp --help
+    Lists all the command information.
+
+$ greb "string" fileName.txt
+    Searches for the text wanted in the fileName.txt
+
+$ greb -r "string" directoryName
+    Searches for the text wanted with the (-r recursive) flag in all the files in the directoryName.
+
+$ greb -r -l "string"
+    Searches for the text wanted with the (-r recursive) and (-l list the files only) flags in all the files in the current directory.
+
+- exit:
+$ exit
+    Exits the command line window.
