@@ -2,3 +2,5 @@
 - Using less system resources.
 - Intelligent tab completion to complete paths and common commands.
 - Using loop to repeat commands.
+
+- For a command line reference – database and OS scripting browse the website https://ss64.com/

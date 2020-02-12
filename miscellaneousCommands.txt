@@ -1,12 +1,13 @@
 - echo:
 $ echo "Hello" > fileName.txt
+$ ping google.com > ping_for_google.txt
     This command with the ">" sign Creates a fileName.txt file and print "Hello" inside it or overwrite what's in it if it was exist before.
 
 $ echo "Hello !!!" >> fileName.txt
     This command with the ">>" sign Creates a fileName.txt file and print "Hello !!!" inside it or adding "Hello !!!" after its content if it was exist before.
 
 - cat:
-$ cat fileName.txt fileName2.txt
+$ cat fileName.txt fileName2.txt ping_for_google.txt
     This command prints the content of the files on the screen.
 
 $ cat *
@@ -76,3 +77,30 @@ $ osk
 - tasklist:
 $ tasklist
     Displays a list of currently running processes on either a local or remote machine.
+
+- explorer:
+$ explorer
+    Opens directories or files.
+
+- alias:
+$ alias
+    Show the aliases of the commands.
+
+$ alias cmd=command
+    Set an alias for a command.
+
+- &&:
+$ command && command
+    Run more than command at once.
+
+- whoami
+$ whoami
+    Shows the user name.
+
+- systeminfo:
+$ systeminfo
+    Displays operating system configuration information for a local or remote machine, including service pack levels.
+
+- clip:
+$ ipconfig | clip
+    Copies the text to clipboard
