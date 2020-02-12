@@ -34,3 +34,45 @@ $ greb -r -l "string"
 - exit:
 $ exit
     Exits the command line window.
+
+- touch:
+$ touch fileName.docx
+    Creates a file with docx extension.
+
+- file:
+$ file fileName.docx
+    Shows the fileName header information.
+
+- rename:
+$ rename fileName.docx fileName.jpg
+    Changes only the extension of the file not the header information.
+
+- man:
+$ man cd
+    UNIX command that shows the manual of this command.
+
+- command /?"
+$ move /?
+    the "/?" flag showing the manual of this command.
+
+- ping:
+$ ping google.com -t
+    Sends packets of data to a specific IP address on a network, and then lets you know how long it took to transmit that data and get a response (-t) flag means ping the specified host until stopped.
+
+- ctrl + c:
+    Stop the current process.
+
+- tree:
+$ tree /a
+    Graphically displays the folder structure of a drive or path.
+    TREE [drive:][path] [/F] [/A]
+    /F   Display the names of the files in each folder.
+    /A   Use ASCII instead of extended characters.
+
+- osk:
+$ osk
+    Runs On Screen Keyboard.
+
+- tasklist:
+$ tasklist
+    Displays a list of currently running processes on either a local or remote machine.
